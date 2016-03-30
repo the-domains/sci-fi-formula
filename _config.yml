@@ -1,0 +1,28 @@
+name: Sci-Fi Formula
+favicon: null
+layout_spectrum: 0.6164051638916135
+typography_spectrum: 0.6894107749685645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18407804425805807
+  lightness: 0.9135809487197548
+  saturation: 0.7938047791831195
+  rhythmicContrast: 0.3341533613856882
+purpose: []
